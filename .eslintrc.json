@@ -1,0 +1,9 @@
+{
+    "extends": ["eslint:recommended", "airbnb-base"],
+    "rules": {
+        "indent": ["warn", 4],
+        "linebreak-style": 0,
+        "no-unused-vars": "off",
+        "comma-dangle": "off"
+    }
+}
